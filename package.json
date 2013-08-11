@@ -1,0 +1,11 @@
+{
+  "name": "rot32",
+  "version": "0.0.1",
+  "description": "Like rot13 but with b64",
+  "author": "David Brockman Smoliansky",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/dbrockman/rot32.git"
+  }
+}
